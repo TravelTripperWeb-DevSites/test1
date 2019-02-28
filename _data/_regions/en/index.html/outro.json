@@ -29,7 +29,7 @@
         "caption": "",
         "description": ""
       },
-      "container_classes": "container-fluid",
+      "container_classes": "",
       "_template": "2_col",
       "content": "<p>Here's some test content!</p>\n<p>Now we need to figure out settings for it.</p>\n<p class=\"h1\">Format</p>\n<p class=\"h1\"><a class=\"btn btn--primary btn--outline\" href=\"google.com\">google.com</a></p>"
     }
