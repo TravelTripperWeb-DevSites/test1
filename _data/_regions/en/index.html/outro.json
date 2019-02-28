@@ -2,5 +2,8 @@
   {
     "_template": "html",
     "content": "<p>New HTML Content</p>"
+  },
+  {
+    "_template": "2_col"
   }
 ]
