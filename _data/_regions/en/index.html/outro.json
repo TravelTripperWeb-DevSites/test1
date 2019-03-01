@@ -50,7 +50,7 @@
       "description": ""
     },
     "header_html": {
-      "content": "<p class=\"h1 h2\" style=\"text-align: center;\">Header Content</p>\n<p style=\"text-align: center;\">with some sub-content</p>",
+      "content": "<p class=\"h1 h2\" style=\"text-align: center;\">Header Content</p>",
       "_template": "2_col",
       "custom_classes": [
         {
