@@ -57,7 +57,10 @@
       "content": "<p class=\"h1 h2\" style=\"text-align: center;\">Header Content</p>",
       "_template": "2_col",
       "custom_classes": [
-        "p-4"
+        "p-4",
+        {
+          "outer": "p-4"
+        }
       ]
     },
     "col2_html": {
