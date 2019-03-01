@@ -65,6 +65,7 @@
       "_template": "2_col"
     },
     "style": "black text-white",
-    "include_gap": false
+    "include_gap": false,
+    "include_footer": true
   }
 ]
