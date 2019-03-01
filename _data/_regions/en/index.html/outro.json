@@ -49,7 +49,10 @@
     },
     "header_html": {
       "content": "<p class=\"h1 h2\" style=\"text-align: center;\">Header Content</p>",
-      "_template": "2_col"
+      "_template": "2_col",
+      "custom_classes": [
+        "p-4"
+      ]
     }
   }
 ]
