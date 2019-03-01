@@ -27,7 +27,7 @@
       "style": "light text-primary"
     },
     "col2_type": "",
-    "container_classes": " ",
+    "container_classes": "container-fluid",
     "include_header": true,
     "layout": "3_9",
     "background_image": {
@@ -65,6 +65,6 @@
       "_template": "2_col"
     },
     "style": "black text-white",
-    "include_gap": true
+    "include_gap": false
   }
 ]
