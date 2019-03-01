@@ -10,9 +10,10 @@
       "_template": "2_col",
       "custom_classes": [
         "p-4",
-        "w-100 d-flex flex-column h-100 justify-content-center"
+        "w-100 d-flex flex-column h-100 justify-content-center",
+        "col--border"
       ],
-      "style": "brand"
+      "style": "light"
     },
     "col2_image": {
       "content": {
