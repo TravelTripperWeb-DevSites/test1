@@ -34,6 +34,7 @@
         "alt": "shutterstock_423990667"
       },
       "_template": "image"
-    }
+    },
+    "include_gap": true
   }
 ]
