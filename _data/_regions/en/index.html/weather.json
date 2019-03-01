@@ -11,7 +11,16 @@
       "custom_classes": [
         "p-4",
         "w-100 d-flex flex-column h-100 justify-content-center",
-        "col--border"
+        "col--border",
+        {
+          "inner": "w-100 d-flex flex-column h-100 justify-content-center"
+        },
+        {
+          "outer": "p-4"
+        },
+        {
+          "outer": "col--border"
+        }
       ],
       "style": "light"
     },
