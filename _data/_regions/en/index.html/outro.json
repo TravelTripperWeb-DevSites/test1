@@ -69,7 +69,12 @@
     "include_footer": true,
     "footer_html": {
       "content": "",
-      "_template": "2_col"
+      "_template": "2_col",
+      "custom_classes": [
+        {
+          "outer": "p-4"
+        }
+      ]
     }
   }
 ]
