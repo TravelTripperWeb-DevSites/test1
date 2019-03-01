@@ -39,6 +39,7 @@
       },
       "_template": "image"
     },
-    "include_gap": true
+    "include_gap": true,
+    "container_classes": ""
   }
 ]
