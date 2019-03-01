@@ -37,7 +37,7 @@
       "style": "dark text-white"
     },
     "col2_type": "",
-    "container_classes": "container-fluid",
+    "container_classes": " ",
     "include_header": true,
     "layout": "3_9",
     "background_image": {
