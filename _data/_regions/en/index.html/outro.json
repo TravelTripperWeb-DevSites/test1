@@ -62,6 +62,10 @@
       "alt": "shutterstock_423990667",
       "caption": "",
       "description": ""
+    },
+    "header_html": {
+      "content": "<p style=\"text-align: center;\">Header Content</p>",
+      "_template": "2_col"
     }
   }
 ]
