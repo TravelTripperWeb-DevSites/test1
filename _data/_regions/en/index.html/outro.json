@@ -66,6 +66,10 @@
     },
     "style": "black text-white",
     "include_gap": false,
-    "include_footer": true
+    "include_footer": true,
+    "footer_html": {
+      "content": "",
+      "_template": "2_col"
+    }
   }
 ]
