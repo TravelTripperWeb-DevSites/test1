@@ -53,14 +53,14 @@
       "content": "<p class=\"h1 h2\" style=\"text-align: center;\">Header Content</p>",
       "_template": "2_col",
       "custom_classes": [
-        {
-          "inner": "p-4"
-        }
+        "{\"inner\":\"p-4\"}",
+        "{\"inner\":\"w-100 d-flex flex-column h-100 justify-content-center\"}"
       ],
       "background_image": {
         "alt": "",
         "caption": "",
-        "description": ""
+        "description": "",
+        "url": ""
       }
     },
     "col2_html": {
