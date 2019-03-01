@@ -58,7 +58,7 @@
       ]
     },
     "col2_html": {
-      "content": "<p class=\"h2\" style=\"text-align: center;\">Here's my New Text</p>\n<p style=\"text-align: center;\">Here's some regular body text. Let's make everything light colored?</p>\n<p style=\"text-align: center;\"><a class=\"btn--primary btn--outline btn\" href=\"#\">CTA</a></p>",
+      "content": "<p class=\"h3\" style=\"text-align: center;\">Here's my New Text</p>\n<p style=\"text-align: center;\">Here's some regular body text. Let's make everything light colored?</p>\n<p style=\"text-align: center;\"><a class=\"btn--primary btn--outline btn\" href=\"#\">CTA</a></p>",
       "_template": "2_col"
     },
     "style": "black text-white"
