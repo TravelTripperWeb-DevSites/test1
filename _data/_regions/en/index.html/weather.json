@@ -4,6 +4,10 @@
     "style": "dark",
     "layout": "4_8",
     "col1_type": "html",
-    "_template": "2_col"
+    "_template": "2_col",
+    "col1_html": {
+      "content": "<p class=\"h4\">Indulge Yourself</p>",
+      "_template": "2_col"
+    }
   }
 ]
