@@ -6,7 +6,7 @@
     "col1_type": "html",
     "_template": "2_col",
     "col1_html": {
-      "content": "<p class=\"h4\">Indulge Yourself</p>",
+      "content": "<p class=\"h4\">Indulge Yourself</p>\n<p class=\"h2\">It is much more than you image</p>\n<p class=\"h2\"><a class=\"btn btn--secondary\" href=\"#\">Take a visual tour</a></p>",
       "_template": "2_col"
     }
   }
