@@ -64,7 +64,7 @@
       "description": ""
     },
     "header_html": {
-      "content": "<p style=\"text-align: center;\">Header Content</p>",
+      "content": "<p class=\"h1 h2\" style=\"text-align: center;\">Header Content</p>",
       "_template": "2_col"
     }
   }
