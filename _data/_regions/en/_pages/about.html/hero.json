@@ -23,6 +23,10 @@
       "caption": "",
       "description": ""
     },
-    "_template": "hero"
+    "_template": "hero",
+    "hero_html": {
+      "content": "<p>MY HERO&nbsp;</p>",
+      "_template": "hero"
+    }
   }
 ]
