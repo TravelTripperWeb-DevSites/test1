@@ -25,7 +25,7 @@
     },
     "_template": "hero",
     "hero_title": {
-      "content": "<h1>&nbsp;</h1>\n<h1>&nbsp;</h1>\n<h1>&nbsp;<a href=\"#\">TEST</a>&nbsp;</h1>",
+      "content": "<h1 class=\"h1\">TEST</h1>",
       "_template": "header"
     },
     "hero_html": {
