@@ -25,7 +25,7 @@
     },
     "_template": "hero",
     "hero_html": {
-      "content": "<p>MY HERO&nbsp;</p>",
+      "content": "<p class=\"h1\">MY HERO</p>\n<p class=\"h2\">Sub-header</p>\n<p><a class=\"btn--outline btn btn--primary\" href=\"#\">Yeah, lets put a button here</a></p>",
       "_template": "hero"
     }
   }
