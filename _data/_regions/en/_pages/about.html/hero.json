@@ -25,7 +25,7 @@
     },
     "_template": "hero",
     "hero_html": {
-      "content": "<p class=\"h1\">MY HERO</p>\n<p class=\"h2\">Sub-header</p>\n<p><a class=\"btn--outline btn--secondary btn\" href=\"#\">Yeah, lets put a button here</a></p>",
+      "content": "<p class=\"h1\">MY HERO</p>\n<p class=\"h2\">Sub-header</p>\n<p><a class=\"btn--secondary btn\" href=\"#\">Yeah, lets put a button here</a></p>",
       "_template": "hero"
     }
   }
