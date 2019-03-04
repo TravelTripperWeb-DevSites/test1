@@ -67,7 +67,9 @@
         "alt": "shutterstock_423990667",
         "caption": "",
         "description": ""
-      }
+      },
+      "mask_color": "#000000",
+      "mask_opacity": ".4"
     }
   }
 ]
