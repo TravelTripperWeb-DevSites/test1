@@ -299,5 +299,8 @@
         ]
       }
     ]
+  },
+  {
+    "_template": "galleries"
   }
 ]
