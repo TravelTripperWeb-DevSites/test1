@@ -42,7 +42,7 @@
       },
       "_template": "image"
     },
-    "container_classes": " ",
+    "container_classes": "container-fluid",
     "style": "black text-white"
   }
 ]
