@@ -23,6 +23,10 @@
       "caption": "",
       "description": ""
     },
-    "_template": "hero"
+    "_template": "hero",
+    "hero_title": {
+      "content": "<h1 class=\"h1\"><a class=\"btn--primary\" href=\"#\">TEST&nbsp;</a></h1>",
+      "_template": "header"
+    }
   }
 ]
