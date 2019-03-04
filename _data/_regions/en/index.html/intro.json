@@ -1,6 +1,6 @@
 [
   {
-    "layout": "1_col",
+    "layout": "2_col",
     "_template": "intro",
     "header": {
       "content": "HEADER CONTENT",
