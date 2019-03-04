@@ -31,6 +31,7 @@
     "hero_html": {
       "content": "<p class=\"h2 h5\">Here the real content we want</p>",
       "_template": "hero"
-    }
+    },
+    "skip_h1": true
   }
 ]
