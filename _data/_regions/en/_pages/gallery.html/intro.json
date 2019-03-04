@@ -1,5 +1,9 @@
 [
   {
-    "_template": "1_col"
+    "_template": "1_col",
+    "html": {
+      "content": "<p class=\"h2\" style=\"text-align: center;\">See lots of images of our hotel</p>",
+      "_template": "1_col"
+    }
   }
 ]
