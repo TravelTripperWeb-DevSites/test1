@@ -9,15 +9,9 @@
       "content": "<p class=\"h2\" style=\"text-align: center;\">Indulge Yourself</p>\n<p class=\"h3\" style=\"text-align: center;\">It is much more than you imagine</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><a class=\"btn btn--secondary\" href=\"#\">Take a visual tour</a></p>",
       "_template": "2_col",
       "custom_classes": [
-        {
-          "inner": "w-100 d-flex flex-column h-100 justify-content-center"
-        },
-        {
-          "outer": "p-4"
-        },
-        {
-          "outer": "col--border"
-        }
+        "inner: w-100 d-flex flex-column h-100 justify-content-center",
+        "outer: p-4",
+        "outer: col--border"
       ],
       "style": "light"
     },
