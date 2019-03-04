@@ -24,7 +24,7 @@
         "caption": "",
         "description": ""
       },
-      "mask_color": "#aaaaaa",
+      "mask_color": "#000000",
       "mask_opacity": ".5"
     },
     "_template": "hero",
