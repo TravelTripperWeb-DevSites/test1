@@ -302,5 +302,8 @@
   },
   {
     "_template": "galleries"
+  },
+  {
+    "_template": "1_col"
   }
 ]
