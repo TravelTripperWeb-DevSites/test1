@@ -23,14 +23,15 @@
         "alt": "fred-mouniguet-102116",
         "caption": "",
         "description": ""
-      }
+      },
+      "mask_color": "#aaaaaa",
+      "mask_opacity": ".5"
     },
     "_template": "hero",
     "hero_html": {
       "content": "<p class=\"h2 h5\">Here the real content we want</p>",
       "_template": "hero"
     },
-    "skip_h1": false,
     "hero_title": {
       "content": "TEST",
       "_template": "header"
