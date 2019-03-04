@@ -1,5 +1,8 @@
 [
   {
-    "_template": "2_col"
+    "_template": "2_col",
+    "col2_type": "html",
+    "layout": "7_5",
+    "col1_type": "image"
   }
 ]
