@@ -12,7 +12,7 @@
           "outer": "col--border"
         }
       ],
-      "style": ""
+      "style": "light text-primary"
     },
     "container_classes": ""
   }
