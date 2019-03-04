@@ -27,6 +27,10 @@
     "hero_title": {
       "content": "<h1 class=\"h1\">&nbsp;</h1>\n<h1 class=\"h1\">&nbsp;<a class=\"btn--primary\" href=\"#\">TEST</a>&nbsp;</h1>",
       "_template": "header"
+    },
+    "hero_html": {
+      "content": "<p class=\"h2\">Here the real content we want</p>",
+      "_template": "hero"
     }
   }
 ]
