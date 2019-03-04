@@ -7,6 +7,9 @@
       "custom_classes": [
         {
           "inner": "p-4"
+        },
+        {
+          "outer": "col--border"
         }
       ],
       "style": ""
