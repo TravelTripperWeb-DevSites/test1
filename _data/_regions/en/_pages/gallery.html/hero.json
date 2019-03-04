@@ -24,10 +24,6 @@
       "description": ""
     },
     "_template": "hero",
-    "hero_title": {
-      "content": "<h1 class=\"h1\">TEST</h1>",
-      "_template": "header"
-    },
     "hero_html": {
       "content": "<p class=\"h2 h5\">Here the real content we want</p>",
       "_template": "hero"
