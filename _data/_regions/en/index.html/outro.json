@@ -29,8 +29,8 @@
     "include_header": true,
     "layout": "3_9",
     "background_image": {
-      "mask_color": "#aa0000",
-      "mask_opacity": 0.25,
+      "mask_color": "#000000",
+      "mask_opacity": "0.1",
       "image": {
         "name": "shutterstock_423990667",
         "content_type": "image/jpeg",
