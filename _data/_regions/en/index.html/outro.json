@@ -87,5 +87,8 @@
         }
       ]
     }
+  },
+  {
+    "_template": "on_page_gallery"
   }
 ]
