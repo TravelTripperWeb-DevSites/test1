@@ -1,9 +1,8 @@
 [
   {
     "hero_html": {
-      "content": "<p>test</p>",
-      "_template": "html"
+      "content": "<p>test</p>"
     },
-    "_template": "html"
+    "_template": "hero"
   }
 ]
