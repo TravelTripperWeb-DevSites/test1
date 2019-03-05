@@ -1,0 +1,9 @@
+[
+  {
+    "hero_title": {
+      "content": "TEST",
+      "_template": "header"
+    },
+    "_template": "hero"
+  }
+]
