@@ -70,7 +70,8 @@
         "mask_color": "#000000",
         "mask_opacity": ".4"
       }
-    }
+    },
+    "include_gap": true
   },
   {
     "_template": "on_page_gallery",
