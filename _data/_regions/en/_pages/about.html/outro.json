@@ -30,7 +30,6 @@
     },
     "col2_html": {
       "content": "<p>Generic HTML COntent</p>\n<p class=\"h2\">Header stuff</p>\n<p><a class=\"btn btn--secondary\" href=\"#\">Test</a></p>\n<p>&nbsp;</p>",
-      "_template": "2_col",
       "custom_classes": [
           "inner: p-4",
           "outer: col--border",
