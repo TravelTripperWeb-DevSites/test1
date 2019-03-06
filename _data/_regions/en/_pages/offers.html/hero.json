@@ -33,6 +33,10 @@
         "description": ""
       }
     },
-    "_template": "hero"
+    "_template": "hero",
+    "hero_title": {
+      "content": "OFFERS",
+      "_template": "header"
+    }
   }
 ]
