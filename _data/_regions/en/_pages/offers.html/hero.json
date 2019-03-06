@@ -31,7 +31,9 @@
         },
         "caption": "",
         "description": ""
-      }
+      },
+      "mask_color": "#e3d055",
+      "mask_opacity": ".6"
     },
     "_template": "hero",
     "hero_title": {
