@@ -11,5 +11,8 @@
       "style": "light text-primary"
     },
     "container_classes": ""
+  },
+  {
+    "_template": "2_col"
   }
 ]
