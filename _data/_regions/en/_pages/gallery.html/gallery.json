@@ -1,0 +1,14 @@
+[
+  {
+    "galleries": [
+      {
+        "gallery": "hotel_exterior_images",
+        "label": "Test"
+      },
+      {
+        "gallery": "rooms"
+      }
+    ],
+    "_template": "galleries"
+  }
+]

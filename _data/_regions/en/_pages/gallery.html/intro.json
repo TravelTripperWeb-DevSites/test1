@@ -1,0 +1,20 @@
+[
+  {
+    "_template": "1_col",
+    "html": {
+      "content": "<p class=\"h2\" style=\"text-align: center;\">See lots of images of our hotel</p>",
+      "_template": "1_col",
+      "custom_classes": [
+        "inner:p-4",
+        "outer:col--border"
+      ],
+      "style": "light text-primary"
+    },
+    "container_classes": ""
+  },
+  {
+    "_template": "2_col",
+    "col2_type": "image",
+    "col1_type": "html"
+  }
+]
