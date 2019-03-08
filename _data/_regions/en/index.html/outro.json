@@ -303,6 +303,9 @@
     "advanced_options": {
       "custom_id": "my-custom-id",
       "custom_classes": "text-right text-large"
+    },
+    "html": {
+      "content": "<p>AHA Here's my text with custom stuff.</p>"
     }
   }
 ]
