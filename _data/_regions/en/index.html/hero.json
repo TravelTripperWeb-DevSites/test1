@@ -33,7 +33,7 @@
       },
       {
         "title": "ZOOMED",
-        "sub_title": "image 2",
+        "sub_title": "<p>image 2</p>",
         "image": {
           "name": "fred-mouniguet-102116",
           "content_type": "image/jpeg",
