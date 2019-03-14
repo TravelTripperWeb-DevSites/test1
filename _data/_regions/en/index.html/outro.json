@@ -5,6 +5,6 @@
   },
   {
     "_template": "html",
-    "content": "<p>New HTML Content</p>"
+    "content": "<p class=\"h4\" style=\"text-align: center;\">FIRST</p>"
   }
 ]
