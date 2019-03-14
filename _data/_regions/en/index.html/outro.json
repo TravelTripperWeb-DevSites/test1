@@ -1,5 +1,12 @@
 [
   {
-    "_template": "galleries"
+    "_template": "galleries",
+    "advanced_options": {
+    },
+    "galleries": [
+      {
+        "gallery": "rooms"
+      }
+    ]
   }
 ]
