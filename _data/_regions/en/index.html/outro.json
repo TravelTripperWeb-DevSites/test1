@@ -1,9 +1,5 @@
 [
   {
-    "_template": "html",
-    "content": "<p>New HTML Content</p>"
-  },
-  {
     "_template": "2_col",
     "col1_html": {
       "custom_classes": [
@@ -106,6 +102,10 @@
         "inner: p-4"
       ]
     }
+  },
+  {
+    "_template": "html",
+    "content": "<p>New HTML Content</p>"
   },
   {
     "_template": "on_page_gallery",
