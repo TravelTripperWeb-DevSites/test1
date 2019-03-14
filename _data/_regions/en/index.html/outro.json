@@ -1,5 +1,8 @@
 [
   {
+    "_template": "galleries"
+  },
+  {
     "_template": "on_page_gallery",
     "galleries": [
       {
@@ -183,9 +186,6 @@
         ]
       }
     ]
-  },
-  {
-    "_template": "galleries"
   },
   {
     "_template": "1_col"
