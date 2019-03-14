@@ -1,6 +1,6 @@
 [
   {
     "_template": "html",
-    "content": "<p>New HTML Content</p>"
+    "content": "<p class=\"h2\" style=\"text-align: center;\">My New TExt</p>"
   }
 ]
