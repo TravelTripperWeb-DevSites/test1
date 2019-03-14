@@ -4,15 +4,5 @@
   },
   {
     "_template": "1_col"
-  },
-  {
-    "_template": "1_col",
-    "advanced_options": {
-      "custom_id": "",
-      "custom_classes": "text-right text-large"
-    },
-    "html": {
-      "content": "<p>AHA Here's my text with custom stuff.</p>"
-    }
   }
 ]
