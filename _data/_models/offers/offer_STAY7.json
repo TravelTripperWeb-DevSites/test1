@@ -1,0 +1,18 @@
+{
+  "name_localized": {
+    "en": "Stay 7 Nights",
+    "es": "Stay 7 Nights"
+  },
+  "short_description_localized": {
+    "en": "Receive 35% off your stay",
+    "es": "Receive 35% off your stay"
+  },
+  "description_localized": {
+    "en": null,
+    "es": null
+  },
+  "images": [
+
+  ],
+  "reztrip_offer_id": "STAY7"
+}
