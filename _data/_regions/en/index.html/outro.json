@@ -112,6 +112,9 @@
     "col2_type": "html",
     "col1_html": {
       "content": "<p>Here's my custom content stuff</p>\n<p>Yay!</p>"
+    },
+    "col2_html": {
+      "content": "<p>Let's drop a BG here</p>"
     }
   }
 ]
