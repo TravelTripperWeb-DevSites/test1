@@ -144,6 +144,7 @@
         "mask_color": "#f4eeee",
         "mask_opacity": ".5"
       }
-    }
+    },
+    "style": "black text-white"
   }
 ]
