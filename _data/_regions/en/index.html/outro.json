@@ -78,7 +78,9 @@
           "width": 703,
           "height": 249
         }
-      }
+      },
+      "mask_color": "#ffffff",
+      "mask_opacity": "0.4"
     }
   }
 ]
