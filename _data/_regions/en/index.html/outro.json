@@ -11,6 +11,11 @@
     "_template": "1_col",
     "html": {
       "content": "<p>TEST 1-Col</p>\n<p class=\"h2\">Content</p>"
+    },
+    "advanced_options": {
+    },
+    "background_image": {
+      "full_bleed": true
     }
   }
 ]
