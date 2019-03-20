@@ -18,10 +18,11 @@
         "image": {
           "alt": "",
           "caption": "",
-          "description": ""
+          "description": "",
+          "url": ""
         },
-        "mask_color": "#000000",
-        "mask_opacity": ".7"
+        "mask_color": "",
+        "mask_opacity": ""
       }
     },
     "advanced_options": {
