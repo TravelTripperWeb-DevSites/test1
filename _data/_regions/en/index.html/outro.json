@@ -127,6 +127,7 @@
         "mask_opacity": ".5"
       }
     },
-    "style": "black text-white"
+    "style": "black text-white",
+    "container_classes": "container-fluid"
   }
 ]
