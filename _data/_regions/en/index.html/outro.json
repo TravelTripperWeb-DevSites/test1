@@ -26,6 +26,7 @@
       }
     },
     "advanced_options": {
+      "custom_classes": "pt-4 pb-4"
     },
     "background_image": {
       "full_bleed": true,
