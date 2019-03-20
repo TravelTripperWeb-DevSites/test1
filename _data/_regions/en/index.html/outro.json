@@ -109,8 +109,8 @@
       "mask_opacity": ".5"
     },
     "include_gap": true,
-    "col1_type": "html",
-    "col2_type": "html",
+    "col1_type": "image",
+    "col2_type": "image",
     "col1_html": {
       "content": "<p>Here's my custom content stuff</p>\n<p>Yay!</p>"
     },
