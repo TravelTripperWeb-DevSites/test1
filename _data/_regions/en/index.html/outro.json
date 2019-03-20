@@ -142,7 +142,7 @@
           "file_size": null
         },
         "mask_color": "#f4eeee",
-        "mask_opacity": "-12"
+        "mask_opacity": ".5"
       }
     }
   }
