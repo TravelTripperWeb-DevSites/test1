@@ -42,7 +42,7 @@
       },
       "_template": "image"
     },
-    "container_classes": "container-fluid",
+    "container_classes": "container",
     "style": "black text-white",
     "background_image": {
       "image": {
@@ -68,6 +68,7 @@
         "caption": "",
         "description": ""
       },
+      "full_bleed": true,
       "mask_color": "#000000",
       "mask_opacity": "0.4"
     }
