@@ -104,7 +104,7 @@
           "height": 500
         }
       },
-      "full_bleed": true,
+      "full_bleed": false,
       "mask_color": "#993535",
       "mask_opacity": ".5"
     },
