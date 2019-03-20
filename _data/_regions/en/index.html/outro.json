@@ -65,5 +65,8 @@
       "mask_color": "#ffffff",
       "mask_opacity": "0.4"
     }
+  },
+  {
+    "_template": "2_col"
   }
 ]
