@@ -104,7 +104,7 @@
           "height": 500
         }
       },
-      "full_bleed": false,
+      "full_bleed": true,
       "mask_color": "#993535",
       "mask_opacity": ".5"
     },
@@ -128,7 +128,7 @@
       }
     },
     "style": "black text-white",
-    "container_classes": " ",
+    "container_classes": "",
     "col1_image": {
       "content": {
         "name": "Bed-and-Breakfast--Continental-Breakfast---Lounge-",
