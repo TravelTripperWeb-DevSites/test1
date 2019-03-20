@@ -69,6 +69,7 @@
   {
     "_template": "2_col",
     "advanced_options": {
+      "custom_classes": "mt-4 pt-12 pb-12"
     },
     "background_image": {
       "image": {
