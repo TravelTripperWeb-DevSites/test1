@@ -6,5 +6,8 @@
   {
     "_template": "html",
     "content": "<p class=\"h2\" style=\"text-align: center;\">My New TExt</p>"
+  },
+  {
+    "_template": "1_col"
   }
 ]
