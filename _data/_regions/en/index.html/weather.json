@@ -2,7 +2,7 @@
   {
     "col2_type": "image",
     "style": "dark",
-    "layout": "5_7",
+    "layout": "4_8",
     "col1_type": "html",
     "_template": "2_col",
     "col1_html": {
@@ -68,6 +68,8 @@
       "full_bleed": true,
       "mask_color": "#000000",
       "mask_opacity": "0.4"
+    },
+    "advanced_options": {
     }
   }
 ]
