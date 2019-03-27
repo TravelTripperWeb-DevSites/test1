@@ -2,7 +2,7 @@
   {
     "col2_type": "image",
     "style": "dark",
-    "layout": "4_8",
+    "layout": "",
     "col1_type": "html",
     "_template": "2_col",
     "col1_html": {
