@@ -1,0 +1,339 @@
+{
+  "order": "",
+  "name_localized": {
+    "en": "Katz's"
+  },
+  "sub_title_localized": {
+    "en": "Deli"
+  },
+  "category": [
+    "Restaurant",
+    "Meal Takeaway",
+    "Dining"
+  ],
+  "location": {
+    "name": "Katz's Delicatessen",
+    "address": "205 E Houston St, New York, NY 10002, USA",
+    "phone": "(212) 254-2246",
+    "place_id": "ChIJCar0f49ZwokR6ozLV-dHNTE",
+    "reference": "ChIJCar0f49ZwokR6ozLV-dHNTE",
+    "latitude": 40.722233,
+    "longitude": -73.98742900000002,
+    "google_place": {
+      "address_components": [
+        {
+          "long_name": "205",
+          "short_name": "205",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "East Houston Street",
+          "short_name": "E Houston St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Manhattan",
+          "short_name": "Manhattan",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "New York",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York County",
+          "short_name": "New York County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "10002",
+          "short_name": "10002",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "adr_address": "<span class=\"street-address\">205 E Houston St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002</span>, <span class=\"country-name\">USA</span>",
+      "formatted_address": "205 E Houston St, New York, NY 10002, USA",
+      "formatted_phone_number": "(212) 254-2246",
+      "geometry": {
+        "location": {
+          "lat": 40.722233,
+          "lng": -73.98742900000002
+        },
+        "viewport": {
+          "south": 40.72100296970851,
+          "west": -73.9886858302915,
+          "north": 40.72370093029151,
+          "east": -73.98598786970848
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "655de0777779660e4d45431510e7fad4f9dd9f0b",
+      "international_phone_number": "+1 212-254-2246",
+      "name": "Katz's Delicatessen",
+      "opening_hours": {
+        "open_now": true,
+        "periods": [
+          {
+            "close": {
+              "day": 1,
+              "time": "2245",
+              "hours": 22,
+              "minutes": 45,
+              "nextDate": 1554777900000
+            },
+            "open": {
+              "day": 1,
+              "time": "0800",
+              "hours": 8,
+              "minutes": 0,
+              "nextDate": 1554724800000
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "2245",
+              "hours": 22,
+              "minutes": 45,
+              "nextDate": 1554864300000
+            },
+            "open": {
+              "day": 2,
+              "time": "0800",
+              "hours": 8,
+              "minutes": 0,
+              "nextDate": 1554811200000
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "2245",
+              "hours": 22,
+              "minutes": 45,
+              "nextDate": 1554950700000
+            },
+            "open": {
+              "day": 3,
+              "time": "0800",
+              "hours": 8,
+              "minutes": 0,
+              "nextDate": 1554897600000
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "0245",
+              "hours": 2,
+              "minutes": 45,
+              "nextDate": 1554446700000
+            },
+            "open": {
+              "day": 4,
+              "time": "0800",
+              "hours": 8,
+              "minutes": 0,
+              "nextDate": 1554984000000
+            }
+          },
+          {
+            "close": {
+              "day": 0,
+              "time": "2245",
+              "hours": 22,
+              "minutes": 45,
+              "nextDate": 1554691500000
+            },
+            "open": {
+              "day": 5,
+              "time": "0800",
+              "hours": 8,
+              "minutes": 0,
+              "nextDate": 1554465600000
+            }
+          }
+        ],
+        "weekday_text": [
+          "Monday: 8:00 AM – 10:45 PM",
+          "Tuesday: 8:00 AM – 10:45 PM",
+          "Wednesday: 8:00 AM – 10:45 PM",
+          "Thursday: 8:00 AM – 2:45 AM",
+          "Friday: 8:00 AM – 12:00 AM",
+          "Saturday: Open 24 hours",
+          "Sunday: 12:00 AM – 10:45 PM"
+        ]
+      },
+      "photos": [
+        {
+          "height": 699,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115067158004730200049/photos\">Katz&#39;s Delicatessen</a>"
+          ],
+          "width": 1048
+        },
+        {
+          "height": 2541,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115067158004730200049/photos\">Katz&#39;s Delicatessen</a>"
+          ],
+          "width": 3181
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107952307971245679129/photos\">Travis Carris</a>"
+          ],
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114776699621350246059/photos\">Richard Rivera</a>"
+          ],
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113304307774960291559/photos\">Julio Roman</a>"
+          ],
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107350915881969600342/photos\">Jonathan Mui</a>"
+          ],
+          "width": 3024
+        },
+        {
+          "height": 1960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111544520475736020961/photos\">hafiz ashwah</a>"
+          ],
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115118950916160943571/photos\">Andy Kamashian</a>"
+          ],
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100780249969922164675/photos\">Marta</a>"
+          ],
+          "width": 4032
+        },
+        {
+          "height": 1152,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106572036754746335289/photos\">Cushi Ming</a>"
+          ],
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJCar0f49ZwokR6ozLV-dHNTE",
+      "plus_code": {
+        "compound_code": "P2C7+V2 New York, United States",
+        "global_code": "87G8P2C7+V2"
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "ChIJCar0f49ZwokR6ozLV-dHNTE",
+      "reviews": [
+        {
+          "author_name": "Deron Kling",
+          "author_url": "https://www.google.com/maps/contrib/117329169664228719636/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh3.googleusercontent.com/-JQlShTBLYmY/AAAAAAAAAAI/AAAAAAAAAGA/8tHZHI_lpHk/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a week ago",
+          "text": "The pastrami was excellent and did not disappoint in any way. The corned beef was less of a delight - I've had better in Chicago. If you haven't been - you should go. This place.is famous for a reason and the food is really very good.",
+          "time": 1553726920
+        },
+        {
+          "author_name": "Brandon Farmer",
+          "author_url": "https://www.google.com/maps/contrib/108400797576401711058/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.googleusercontent.com/-hGfw4U_oqB0/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcVvgeGBVQEaXoeZsTCiDmHhkbfOw/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a month ago",
+          "text": "This was my second time going to Katz's and much different experience. The first time I went was in 2012 and it was semi-busy, but not too crazy. Today was very different. We went at lunch time and when we arrived there was a line out the door. Not a long one and we were inside within five minutes. Once inside you are given a ticket and told not to lose it or you will be charged a fine. There are seats where you can be helped by a waiter and there was a wait, so we did counter service. Counter service consisted of choosing one of several lines and waiting. Once you get to the front you order and the service is quick and efficient. I ordered a Reuben sandwich with pastrami and a matzo ball soup, both of which were excellent. the biggest problem during this visit was finding a place to sit. after walking around for about 5 minutes we were able to squeeze in where a family had left. Despite the crowds I would go back to Katz's many times.",
+          "time": 1550928360
+        },
+        {
+          "author_name": "Marc Adrian",
+          "author_url": "https://www.google.com/maps/contrib/109579994849620839551/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh3.googleusercontent.com/-WXIrBUlxrXQ/AAAAAAAAAAI/AAAAAAAAAIY/_MegPt1jDV0/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 3,
+          "relative_time_description": "2 weeks ago",
+          "text": "It's a good sandwich at the price of two great sandwiches. I was visiting New York and felt I should try it out. It was a long line and not a bad way to people watch. I ordered the pastrami sandwich and it was huge but not especially good. The old world feel was charming but I think it's just a modern tourist trap with $24 sandwiches that are just okay tasting. It's a really good amount of food and I wouldn't recommend ordering a whole one unless you're a big eater or splitting it.",
+          "time": 1552691438
+        },
+        {
+          "author_name": "Jeffrey Mercado",
+          "author_url": "https://www.google.com/maps/contrib/113036790948526569666/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.googleusercontent.com/-LVp1klnR6u0/AAAAAAAAAAI/AAAAAAAAG5U/fRTKu2OulAc/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "3 weeks ago",
+          "text": "What more can you say about this great New York institution.   Katz's deli is the place to go if you want a Pastrami on rye.  Heaps of meat piled in between to thin slices of rye.  What makes this place so special is that it is an authentic New York experience that everyone should try once in their lifetime. \n When you walk through the door you are greeted with a ticket that you must guard with your life.  If you lose it there is a $50 penalty.  Next you are asked whether you want table service .  If not you are directed to one of 7 lines to stand and wait to order your meal.  Once you get to your Carver the tradition is to tip him in exchange for a taste of pastrami, or corn beef or whatever it is you order.   Pickles are served with your sandwich all for the low low price of $22.45.  \nOne sandwich is definitely enough for 2 people.   Next time you are on Houston on the Lower East Side make sure to stop by Katz's Deli. \nCredit card is accepted",
+          "time": 1552269590
+        }
+      ],
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "store",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "url": "https://maps.google.com/?cid=3545819340560108778",
+      "user_ratings_total": 14564,
+      "utc_offset": -240,
+      "vicinity": "205 East Houston Street, New York",
+      "website": "http://katzsdelicatessen.com/",
+      "html_attributions": null
+    }
+  }
+}
