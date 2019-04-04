@@ -45,13 +45,15 @@
       "image": {
         "alt": "",
         "caption": "",
-        "description": ""
+        "description": "",
+        "url": ""
       },
       "full_bleed": false,
       "mask_color": "",
       "mask_opacity": ""
     },
     "advanced_options": {
-    }
+    },
+    "breakpoint": "xs"
   }
 ]
