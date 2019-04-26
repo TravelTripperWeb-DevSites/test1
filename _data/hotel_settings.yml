@@ -2,7 +2,6 @@
 latitude: '40.750613'
 longitude: "-73.977095"
 map_zoom: 12
-
 name: Demo Hotel
 email: support@traveltripper.com
 phone_number: 123-123-1234
@@ -26,7 +25,7 @@ __EDITABLE_FIELDS__:
     type: string
   default_currency:
     required: true
-  google_location: 
+  google_location:
     type: location
   address:
     type: complex
@@ -49,3 +48,126 @@ logo:
   alt: ''
   caption: ''
   description: ''
+  url: ''
+google_location:
+  name: Travel Tripper
+  address: 370 Lexington Ave Ste. 1601, New York, NY 10017, USA
+  phone: "(212) 683-6161"
+  place_id: ChIJTd8H3wNZwokRErzgw1vsAd8
+  reference: ChIJTd8H3wNZwokRErzgw1vsAd8
+  latitude: 40.75061300000001
+  longitude: -73.97709499999996
+  google_place:
+    address_components:
+    - long_name: Ste. 1601
+      short_name: Ste. 1601
+      types:
+      - subpremise
+    - long_name: '370'
+      short_name: '370'
+      types:
+      - street_number
+    - long_name: Lexington Avenue
+      short_name: Lexington Ave
+      types:
+      - route
+    - long_name: Manhattan
+      short_name: Manhattan
+      types:
+      - sublocality_level_1
+      - sublocality
+      - political
+    - long_name: New York
+      short_name: New York
+      types:
+      - locality
+      - political
+    - long_name: New York County
+      short_name: New York County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: New York
+      short_name: NY
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '10017'
+      short_name: '10017'
+      types:
+      - postal_code
+    adr_address: <span class="street-address">370 Lexington Ave Ste. 1601</span>,
+      <span class="locality">New York</span>, <span class="region">NY</span> <span
+      class="postal-code">10017</span>, <span class="country-name">USA</span>
+    formatted_address: 370 Lexington Ave Ste. 1601, New York, NY 10017, USA
+    formatted_phone_number: "(212) 683-6161"
+    geometry:
+      location:
+        lat: 40.75061300000001
+        lng: -73.97709499999996
+      viewport:
+        south: 40.7491968197085
+        west: -73.97827748029147
+        north: 40.7518947802915
+        east: -73.9755795197085
+    icon: https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png
+    id: ccac76e195bbd1d963cf848cc98f34b26a09f0dc
+    international_phone_number: "+1 212-683-6161"
+    name: Travel Tripper
+    photos:
+    - height: 1600
+      html_attributions:
+      - <a href="https://maps.google.com/maps/contrib/114987169435605386706/photos">Travel
+        Tripper</a>
+      width: 2400
+    - height: 2988
+      html_attributions:
+      - <a href="https://maps.google.com/maps/contrib/113848956953376810096/photos">Victor
+        Anderson</a>
+      width: 5312
+    - height: 563
+      html_attributions:
+      - <a href="https://maps.google.com/maps/contrib/114987169435605386706/photos">Travel
+        Tripper</a>
+      width: 563
+    - height: 750
+      html_attributions:
+      - <a href="https://maps.google.com/maps/contrib/114987169435605386706/photos">Travel
+        Tripper</a>
+      width: 750
+    place_id: ChIJTd8H3wNZwokRErzgw1vsAd8
+    plus_code:
+      compound_code: Q22F+65 New York, United States
+      global_code: 87G8Q22F+65
+    rating: 5
+    reference: ChIJTd8H3wNZwokRErzgw1vsAd8
+    reviews:
+    - author_name: Joy Pi
+      author_url: https://www.google.com/maps/contrib/100327187717457430070/reviews
+      profile_photo_url: https://lh4.googleusercontent.com/-Jy1sjsFp8fQ/AAAAAAAAAAI/AAAAAAAAAGI/MdxqvoglVeM/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg
+      rating: 5
+      relative_time_description: 2 years ago
+      text: ''
+      time: 1489501847
+    - author_name: nagur vali Shaik
+      author_url: https://www.google.com/maps/contrib/103360100192309954106/reviews
+      profile_photo_url: https://lh5.googleusercontent.com/-Y0xQjXhBCdc/AAAAAAAAAAI/AAAAAAAAJPY/XZkbPtqdy-4/s128-c0x00000000-cc-rp-mo/photo.jpg
+      rating: 5
+      relative_time_description: 3 years ago
+      text: ''
+      time: 1460325164
+    scope: GOOGLE
+    types:
+    - point_of_interest
+    - establishment
+    url: https://maps.google.com/?cid=16069384824307104786
+    user_ratings_total: 2
+    utc_offset: -240
+    vicinity: 370 Lexington Avenue Ste. 1601, New York
+    website: http://www.traveltripper.com/
+    html_attributions: 
