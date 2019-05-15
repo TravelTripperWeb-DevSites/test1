@@ -7,52 +7,52 @@ url:
 repository: 
 default_lang: en
 languages:
-  - en
-  - es
+- en
+- es
 include:
-  - _ttio_templates
-  - _pages
+- _ttio_templates
+- _pages
 exclude:
-  - _ttio_templates/zom
-  - _ttio_templates/bedrock/assets
-  - _ttio_templates/bedrock/node_modules
-  - _ttio_templates/bedrock/*.md
-  - _ttio_templates/bedrock/*.json
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - ".asset-cache"
-  - ".bundle"
-  - ".jekyll-assets-cache"
-  - ".sass-cache"
-  - Capfile
-  - CHANGELOG
-  - config
-  - Gemfile
-  - Gruntfile.js
-  - gulpfile.js
-  - LICENSE
-  - log
-  - Makefile
-  - media.json
-  - models.json
-  - node_modules
-  - old_media.json
-  - package.json
-  - package-lock.json
-  - Rakefile
-  - README
-  - sitemap.json
-  - tmp
-  - vendor
+- _ttio_templates/zom
+- _ttio_templates/bedrock/assets
+- _ttio_templates/bedrock/node_modules
+- _ttio_templates/bedrock/*.md
+- _ttio_templates/bedrock/*.json
+- "*.sublime-project"
+- "*.sublime-workspace"
+- ".asset-cache"
+- ".bundle"
+- ".jekyll-assets-cache"
+- ".sass-cache"
+- Capfile
+- CHANGELOG
+- config
+- Gemfile
+- Gruntfile.js
+- gulpfile.js
+- LICENSE
+- log
+- Makefile
+- media.json
+- models.json
+- node_modules
+- old_media.json
+- package.json
+- package-lock.json
+- Rakefile
+- README
+- sitemap.json
+- tmp
+- vendor
 keep_files:
-  - ".git"
-  - assets
-  - ttio_templates/bedrock/assets
-  - ttio_templates/zom/assets
+- ".git"
+- assets
+- ttio_templates/bedrock/assets
+- ttio_templates/zom/assets
 rsync_copy:
-  - _assets
-  - _ttio_templates/bedrock/assets
-  - _ttio_templates/zom/assets
+- _assets
+- _ttio_templates/bedrock/assets
+- _ttio_templates/zom/assets
 encoding: utf-8
 markdown_ext: markdown,mkdown,mkdn,mkd,md
 markdown: kramdown
@@ -83,17 +83,17 @@ page_gen:
   dir: offers
   title_field: name
 plugins_dir:
-  - _plugins-38
-  - _plugins
+- _plugins-38
+- _plugins
 i18n_dir:
-  - _ttio_templates/bedrock/_locales
-  - _locales
+- _ttio_templates/bedrock/_locales
+- _locales
 layouts_dir:
-  - _ttio_templates/bedrock/_layouts
-  - _layouts
+- _ttio_templates/bedrock/_layouts
+- _layouts
 data_dir:
-  - _ttio_templates/bedrock/_data
-  - _data
+- _ttio_templates/bedrock/_data
+- _data
 includes_dir:
-  - _includes
-  - _ttio_templates/bedrock/_includes
+- _includes
+- _ttio_templates/bedrock/_includes
