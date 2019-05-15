@@ -1,0 +1,120 @@
+{
+  "name_localized": {
+    "en": "Metropolitan Suite ",
+    "es": "Metropolitan Suite "
+  },
+  "short_description_localized": {
+    "en": "Designed with contemporary style and inviting warm tones, the Metropolitan Suites are located on the second floor, with 284-473 square feet of space and choice amenities. ",
+    "es": "Designed with contemporary style and inviting warm tones, the Metropolitan Suites are located on the second floor, with 284-473 square feet of space and choice amenities. "
+  },
+  "description_localized": {
+    "en": "Relax in the evenings and awake refreshed in this plush second-floor suite with all the amenities of home.  \r\n\r\nCheck in and breeze up to the second floor to discover a superior Manhattan retreat. Our Metropolitan Suites offer kitchenettes, luxe amenities, thoughtful conveniences and 284-473 square feet of space for the most comfortable stay. \r\n",
+    "es": "Relax in the evenings and awake refreshed in this plush second-floor suite with all the amenities of home.  \r\n\r\nCheck in and breeze up to the second floor to discover a superior Manhattan retreat. Our Metropolitan Suites offer kitchenettes, luxe amenities, thoughtful conveniences and 284-473 square feet of space for the most comfortable stay. \r\n"
+  },
+  "amenities": [
+    "room_amenities2",
+    "room_amenities3",
+    "room_amenities4",
+    "room_amenities5",
+    "room_amenities6",
+    "room_amenities7",
+    "room_amenities8",
+    "room_amenities9",
+    "room_amenities10"
+  ],
+  "images": [
+    {
+      "name": "Metropolitan-Suite--Metropolitan-Bedroom---Partial-View",
+      "content_type": null,
+      "date_added": "2019-03-19-125408",
+      "url_thumb": "//res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1553014449/axagbnrpaw3o2c6lbuog.jpg",
+      "url_xsmall": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1553014449/axagbnrpaw3o2c6lbuog.jpg",
+      "url_small": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1553014449/axagbnrpaw3o2c6lbuog.jpg",
+      "url_medium": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1553014449/axagbnrpaw3o2c6lbuog.jpg",
+      "url_large": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1553014449/axagbnrpaw3o2c6lbuog.jpg",
+      "url_xlarge": "//res.cloudinary.com/traveltripperweb/image/upload/c_limit,h_1920,w_1920/v1553014449/axagbnrpaw3o2c6lbuog.jpg",
+      "width": 900,
+      "height": 500,
+      "format": "jpg",
+      "url": "//res.cloudinary.com/traveltripperweb/image/upload/v1553014449/axagbnrpaw3o2c6lbuog.jpg",
+      "resource_type": "image",
+      "size": 165993,
+      "caption": "Metropolitan Bedroom - Partial View",
+      "description": "This suite includes a queen bed, TV, and a window.",
+      "alt": "A comfortable queen size bed nestled to the left of a nightstand accompanied by a lamp and clock radio. To the left of the bed a window sitting just to the right of a TV fixed to the wall.",
+      "original_url": "https://d31f902anbz5po.cloudfront.net/1025/50199_2_master.jpg"
+    },
+    {
+      "name": "Metropolitan-Suite--Metropolitan-Kitchenette---View-from-Sleeper-Sofa",
+      "content_type": null,
+      "date_added": "2019-03-19-125409",
+      "url_thumb": "//res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1553014449/tjokjvbreoi7nvxsjvgz.jpg",
+      "url_xsmall": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1553014449/tjokjvbreoi7nvxsjvgz.jpg",
+      "url_small": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1553014449/tjokjvbreoi7nvxsjvgz.jpg",
+      "url_medium": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1553014449/tjokjvbreoi7nvxsjvgz.jpg",
+      "url_large": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1553014449/tjokjvbreoi7nvxsjvgz.jpg",
+      "url_xlarge": "//res.cloudinary.com/traveltripperweb/image/upload/c_limit,h_1920,w_1920/v1553014449/tjokjvbreoi7nvxsjvgz.jpg",
+      "width": 900,
+      "height": 500,
+      "format": "jpg",
+      "url": "//res.cloudinary.com/traveltripperweb/image/upload/v1553014449/tjokjvbreoi7nvxsjvgz.jpg",
+      "resource_type": "image",
+      "size": 198348,
+      "caption": "Metropolitan Kitchenette - View from Sleeper Sofa",
+      "description": "This kitchenette includes a dishwasher, fridge, and a sink.",
+      "alt": "Just to the right of the wall you will find a sink. To the right of the sink a dishwasher built into the cabinets. Above the cabinets, you will see additional mirrored cabinets of which a microwave is contained. In front of the kitchenette, a table and lamp sit just to the right of the sleeper sofa.",
+      "original_url": "https://d31f902anbz5po.cloudfront.net/1025/51244_1_master.jpg"
+    },
+    {
+      "name": "Metropolitan-Suite--Metropolitan-Bath---Partial-View",
+      "content_type": null,
+      "date_added": "2019-03-19-125410",
+      "url_thumb": "//res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1553014450/yiodm5nrcibwvcxui3as.jpg",
+      "url_xsmall": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1553014450/yiodm5nrcibwvcxui3as.jpg",
+      "url_small": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1553014450/yiodm5nrcibwvcxui3as.jpg",
+      "url_medium": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1553014450/yiodm5nrcibwvcxui3as.jpg",
+      "url_large": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1553014450/yiodm5nrcibwvcxui3as.jpg",
+      "url_xlarge": "//res.cloudinary.com/traveltripperweb/image/upload/c_limit,h_1920,w_1920/v1553014450/yiodm5nrcibwvcxui3as.jpg",
+      "width": 900,
+      "height": 500,
+      "format": "jpg",
+      "url": "//res.cloudinary.com/traveltripperweb/image/upload/v1553014450/yiodm5nrcibwvcxui3as.jpg",
+      "resource_type": "image",
+      "size": 194580,
+      "caption": "Metropolitan Bath - Partial View",
+      "description": "The Bathroom includes a full mirror, sink, and plenty of counter space.",
+      "alt": "The Bathroom includes a full mirror sitting on a counter the length of the wall. In front of the counter, a round sink with additional counter space.",
+      "original_url": "https://d31f902anbz5po.cloudfront.net/1025/51245_1_master.jpg"
+    },
+    {
+      "name": "Metropolitan-Suite--Metropolitan-Studio-sofa-view",
+      "content_type": null,
+      "date_added": "2019-03-19-125410",
+      "url_thumb": "//res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1553014451/rhz5u7egdrvyq4zvds8c.jpg",
+      "url_xsmall": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1553014451/rhz5u7egdrvyq4zvds8c.jpg",
+      "url_small": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1553014451/rhz5u7egdrvyq4zvds8c.jpg",
+      "url_medium": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1553014451/rhz5u7egdrvyq4zvds8c.jpg",
+      "url_large": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1553014451/rhz5u7egdrvyq4zvds8c.jpg",
+      "url_xlarge": "//res.cloudinary.com/traveltripperweb/image/upload/c_limit,h_1920,w_1920/v1553014451/rhz5u7egdrvyq4zvds8c.jpg",
+      "width": 900,
+      "height": 500,
+      "format": "jpg",
+      "url": "//res.cloudinary.com/traveltripperweb/image/upload/v1553014451/rhz5u7egdrvyq4zvds8c.jpg",
+      "resource_type": "image",
+      "size": 77335,
+      "caption": "Metropolitan Studio sofa view",
+      "description": "The sofa bed with table mirror above and standing lamp. The sofa bed is next to the queen bed.",
+      "alt": "The sofa bed with table mirror above and standing lamp. The sofa bed is next to the queen bed.",
+      "original_url": "https://d31f902anbz5po.cloudfront.net/1025/274645_1_master.jpg"
+    }
+  ],
+  "reztrip_room_id": "MET",
+  "order": 1,
+  "guest_size_max": 4,
+  "size": "284 ft<sup>2</sup>",
+  "room_category": null,
+  "ada_room": false,
+  "bed_types": [
+    "bed_type_QN"
+  ]
+}
