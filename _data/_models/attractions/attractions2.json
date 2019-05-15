@@ -1,0 +1,386 @@
+{
+  "order": "",
+  "name_localized": {
+    "en": "The Bitter End"
+  },
+  "sub_title_localized": {
+    "en": "Music Venue"
+  },
+  "category": [
+    "Activity",
+    "Music Venue",
+    "Nightlife",
+    "Night Club"
+  ],
+  "location": {
+    "name": "The Bitter End",
+    "address": "between Thompson and LaGuardia, 147 Bleecker St, New York, NY 10012, USA",
+    "phone": "(212) 673-7030",
+    "place_id": "ChIJ3fYA6JFZwokREvGpQiCDe-4",
+    "reference": "ChIJ3fYA6JFZwokREvGpQiCDe-4",
+    "latitude": 40.72836900000001,
+    "longitude": -73.99917629999999,
+    "google_place": {
+      "address_components": [
+        {
+          "long_name": "between Thompson and LaGuardia",
+          "short_name": "between Thompson and LaGuardia",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ]
+        },
+        {
+          "long_name": "147",
+          "short_name": "147",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Bleecker Street",
+          "short_name": "Bleecker St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Manhattan",
+          "short_name": "Manhattan",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "New York",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York County",
+          "short_name": "New York County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "10012",
+          "short_name": "10012",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "adr_address": "<span class=\"extended-address\">between Thompson and LaGuardia</span>, <span class=\"street-address\">147 Bleecker St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10012</span>, <span class=\"country-name\">USA</span>",
+      "formatted_address": "between Thompson and LaGuardia, 147 Bleecker St, New York, NY 10012, USA",
+      "formatted_phone_number": "(212) 673-7030",
+      "geometry": {
+        "location": {
+          "lat": 40.72836900000001,
+          "lng": -73.99917629999999
+        },
+        "viewport": {
+          "south": 40.72695576970851,
+          "west": -74.00058398029148,
+          "north": 40.7296537302915,
+          "east": -73.99788601970852
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id": "e72e7eaf3d3a6b75a8834631c456337185234b6f",
+      "international_phone_number": "+1 212-673-7030",
+      "name": "The Bitter End",
+      "opening_hours": {
+        "open_now": false,
+        "periods": [
+          {
+            "close": {
+              "day": 1,
+              "time": "0100",
+              "hours": 1,
+              "minutes": 0,
+              "nextDate": 1554699600000
+            },
+            "open": {
+              "day": 0,
+              "time": "1900",
+              "hours": 19,
+              "minutes": 0,
+              "nextDate": 1554678000000
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "0200",
+              "hours": 2,
+              "minutes": 0,
+              "nextDate": 1554789600000
+            },
+            "open": {
+              "day": 1,
+              "time": "1900",
+              "hours": 19,
+              "minutes": 0,
+              "nextDate": 1554764400000
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "0100",
+              "hours": 1,
+              "minutes": 0,
+              "nextDate": 1554872400000
+            },
+            "open": {
+              "day": 2,
+              "time": "1900",
+              "hours": 19,
+              "minutes": 0,
+              "nextDate": 1554850800000
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "0100",
+              "hours": 1,
+              "minutes": 0,
+              "nextDate": 1554958800000
+            },
+            "open": {
+              "day": 3,
+              "time": "1900",
+              "hours": 19,
+              "minutes": 0,
+              "nextDate": 1554937200000
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "0100",
+              "hours": 1,
+              "minutes": 0,
+              "nextDate": 1554440400000
+            },
+            "open": {
+              "day": 4,
+              "time": "1900",
+              "hours": 19,
+              "minutes": 0,
+              "nextDate": 1554418800000
+            }
+          },
+          {
+            "close": {
+              "day": 6,
+              "time": "0200",
+              "hours": 2,
+              "minutes": 0,
+              "nextDate": 1554530400000
+            },
+            "open": {
+              "day": 5,
+              "time": "1900",
+              "hours": 19,
+              "minutes": 0,
+              "nextDate": 1554505200000
+            }
+          },
+          {
+            "close": {
+              "day": 0,
+              "time": "0400",
+              "hours": 4,
+              "minutes": 0,
+              "nextDate": 1554624000000
+            },
+            "open": {
+              "day": 6,
+              "time": "1300",
+              "hours": 13,
+              "minutes": 0,
+              "nextDate": 1554570000000
+            }
+          }
+        ],
+        "weekday_text": [
+          "Monday: 7:00 PM – 2:00 AM",
+          "Tuesday: 7:00 PM – 1:00 AM",
+          "Wednesday: 7:00 PM – 1:00 AM",
+          "Thursday: 7:00 PM – 1:00 AM",
+          "Friday: 7:00 PM – 2:00 AM",
+          "Saturday: 1:00 PM – 4:00 AM",
+          "Sunday: 7:00 PM – 1:00 AM"
+        ]
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109668190655341550879/photos\">Xiaoguang Xin</a>"
+          ],
+          "width": 4160
+        },
+        {
+          "height": 2112,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101954722997701340523/photos\">Marco Iozzia</a>"
+          ],
+          "width": 4608
+        },
+        {
+          "height": 1440,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103692049964859601787/photos\">patricia winters</a>"
+          ],
+          "width": 2560
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106684002097562549870/photos\">Alden Schmidt</a>"
+          ],
+          "width": 3024
+        },
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112384290098233427976/photos\">Shuichi Aizawa</a>"
+          ],
+          "width": 4618
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107965035876914469694/photos\">Phillip Avanzato</a>"
+          ],
+          "width": 5312
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101585739629521018539/photos\">Matt Ragsdale</a>"
+          ],
+          "width": 1836
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108368760031530108212/photos\">Mirna Fernandez</a>"
+          ],
+          "width": 5312
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111903291108382219380/photos\">Billy Lazer</a>"
+          ],
+          "width": 5312
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109477806416731129460/photos\">Marco Chiletti</a>"
+          ],
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJ3fYA6JFZwokREvGpQiCDe-4",
+      "plus_code": {
+        "compound_code": "P2H2+88 New York, United States",
+        "global_code": "87G8P2H2+88"
+      },
+      "rating": 4.3,
+      "reference": "ChIJ3fYA6JFZwokREvGpQiCDe-4",
+      "reviews": [
+        {
+          "author_name": "Roxana Benton",
+          "author_url": "https://www.google.com/maps/contrib/116245793459791845389/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.googleusercontent.com/-DDLw7kBuzLY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdDmnu8cCKH1UY-i8iPVvPgIZXmFg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "in the last week",
+          "text": "Fantastic!  Went there to see Bria the Artist and found all the music was great! Even the front door guy and the lady who took the money was friendly. Nothing like the reviews I read. Different genres of music and mixed crowd, but all live music! The bands were great and despite reviews I read, the drinks were good too. $7 for a rum and coke or grey goose and orange juice.  Not expensive at all. I wish I got our waitress's name. Clean cut, thin, cool olive skin lady. Very nice, very courteous and I'm going back again. Had my bestie meet me from Long Island and she had a ball. Try it for yourself and draw your own opinion. I'm going back and Bria the Artist was the bomb!",
+          "time": 1553925308
+        },
+        {
+          "author_name": "Kate F",
+          "author_url": "https://www.google.com/maps/contrib/109611369380276339587/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh3.googleusercontent.com/-YtMsMZsOm4Q/AAAAAAAAAAI/AAAAAAAAAUw/kCJJJC9qZAA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 1,
+          "relative_time_description": "2 months ago",
+          "text": "I would absolutely never come back here. We came on a Monday night, so not surprising it wasn’t busy. No big deal. I don’t even mind the cover charge. But the bartender delivered the most rude service I have ever received. Seriously, there are so many better live music venues. Not going back.",
+          "time": 1548178830
+        },
+        {
+          "author_name": "Sean P. O'Connor",
+          "author_url": "https://www.google.com/maps/contrib/107301690456155153397/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.googleusercontent.com/-EhYdxqlKqx4/AAAAAAAAAAI/AAAAAAAADic/OZ00yODwekY/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "4 months ago",
+          "text": "This is the joint! The one you've heard about, the one where everybody has played at one time or another. Please be advised that the entire food menu consists of bags of potato chips. There's a two drink minimum which I didn't have a problem with, and we had a great time. It really is an amazing place to see and hear some amazing artists.",
+          "time": 1543948422
+        },
+        {
+          "author_name": "Deborah Lauren",
+          "author_url": "https://www.google.com/maps/contrib/117769712664320329142/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.googleusercontent.com/-hkUrhWa93tw/AAAAAAAAAAI/AAAAAAAAAfk/GQwk0z-89a0/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "in the last week",
+          "text": "Been going here forever. Great live music venue. Go see 45 Riots when they play!",
+          "time": 1554164545
+        },
+        {
+          "author_name": "David Dore",
+          "author_url": "https://www.google.com/maps/contrib/114877685312106179930/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.googleusercontent.com/-sC8XKTRIVkE/AAAAAAAAAAI/AAAAAAAACbY/fH5oqajNWCw/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a week ago",
+          "text": "Great shows of up and coming singers. There is a two drink minimum but worth it.",
+          "time": 1553520504
+        }
+      ],
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "url": "https://maps.google.com/?cid=17184472977742885138",
+      "user_ratings_total": 329,
+      "utc_offset": -240,
+      "vicinity": "between Thompson and LaGuardia, 147 Bleecker Street, New York",
+      "website": "http://www.bitterend.com/",
+      "html_attributions": null
+    }
+  }
+}
