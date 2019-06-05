@@ -14,7 +14,7 @@
     "type": "model",
     "display_field": "title",
     "multiple": true,
-    "model_name": "post_tags",
+    "model_name": "post_categories",
     "can_create": true
   }
 
