@@ -1,0 +1,10 @@
+{
+   "name": {},
+   "category": {
+    "label": "Choose Category",
+    "type": "model",
+    "display_field": "title",
+    "model_name": "post_categories",
+    "can_create": true
+  }
+}
