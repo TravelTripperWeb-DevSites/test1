@@ -1,7 +1,8 @@
 {
    "name": {},
    "category": {
-    "label": "Choose Category",
+    "label": "Category",
+    "instructions": "Choose Category",
     "type": "model",
     "display_field": "title",
     "model_name": "post_categories",
