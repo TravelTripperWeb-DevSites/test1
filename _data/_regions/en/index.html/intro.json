@@ -7,7 +7,7 @@
       "_template": "header"
     },
     "post_header": {
-      "content": "<p style=\"text-align: center;\">Post Header Content!!</p>",
+      "content": "<p style=\"text-align: center;\">Post Header Content!!!</p>",
       "_template": "intro"
     },
     "image": {
