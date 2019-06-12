@@ -2,6 +2,8 @@ items:
   - id: __pages__
   - id: __menus__
   - id: __galleries__
+  - id: attractions
+  - id: dining
   - id: events
   - id: offers
   - id: room_content
