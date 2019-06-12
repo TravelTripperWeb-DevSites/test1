@@ -1,0 +1,10 @@
+items:
+  - id: __environment_settings__
+  - id: __rediretcts__
+  - id: analytics
+  - id: brg_configuration
+  - id: conversion_plus
+  - id: hotel_settings
+  - id: seo
+  - id: social
+  - id: verification
