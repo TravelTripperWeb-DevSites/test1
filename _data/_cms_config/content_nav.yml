@@ -10,8 +10,8 @@ items:
     label: 
       en: Room Content
     items:
-      -id: rooms
-      -id: room_amenities
-      -id: room_bed_types
+      - id: rooms
+      - id: room_amenities
+      - id: room_bed_types
   - id: reviews
     
