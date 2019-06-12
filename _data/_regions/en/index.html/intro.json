@@ -3,7 +3,7 @@
     "layout": "2_col",
     "_template": "intro",
     "header": {
-      "content": "HEADER CONTENT",
+      "content": "HEADER CONTENT!",
       "_template": "header"
     },
     "post_header": {
