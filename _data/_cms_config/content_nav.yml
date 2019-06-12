@@ -1,4 +1,5 @@
 items:
+  - id: posts
   - id: __pages__
   - id: __menus__
   - id: __galleries__
