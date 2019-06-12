@@ -1,6 +1,6 @@
 items:
   - id: __environment_settings__
-  - id: __rediretcts__
+  - id: __redirects__
   - id: analytics
   - id: brg_configuration
   - id: conversion_plus
