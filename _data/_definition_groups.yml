@@ -1,0 +1,12 @@
+rooms:
+  label: 
+    en: Rooms
+  definitions:
+    - rooms
+    - room_amenities
+    - room_bed_types
+taxonomies:
+  label: Taxonomies
+  definitions:
+    - post_categories
+  
