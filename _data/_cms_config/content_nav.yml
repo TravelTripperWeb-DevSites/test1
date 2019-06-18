@@ -1,0 +1,18 @@
+items:
+  - id: posts
+  - id: __pages__
+  - id: __menus__
+  - id: __galleries__
+  - id: attractions
+  - id: dining
+  - id: events
+  - id: offers
+  - id: room_content
+    label: 
+      en: Room Content
+    items:
+      - id: rooms
+      - id: room_amenities
+      - id: room_bed_types
+  - id: reviews
+    

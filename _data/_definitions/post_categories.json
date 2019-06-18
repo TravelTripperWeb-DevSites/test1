@@ -1,0 +1,12 @@
+{
+  "title": {
+    "label": "Category Name",
+    "required": true,
+    "localizable": true
+  },
+  "__META__": {
+    "ui_group": {
+      "en": "Taxonomies"
+    }
+  }
+}
