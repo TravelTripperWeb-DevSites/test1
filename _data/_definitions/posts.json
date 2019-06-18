@@ -1,0 +1,21 @@
+{
+   "name": {},
+   "category": {
+    "label": "Category",
+    "instructions": "Choose Category",
+    "type": "model",
+    "display_field": "title",
+    "model_name": "post_categories",
+    "can_create": true
+  },
+  "tags": {
+    "label": "Tags",
+    "hint": "Choose Tags",
+    "type": "model",
+    "display_field": "title",
+    "multiple": true,
+    "model_name": "post_categories",
+    "can_create": true
+  }
+
+}
